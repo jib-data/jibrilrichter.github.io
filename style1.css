@@ -40,7 +40,7 @@ div h3:first-of-type{
 .bx{
     margin-right: 35px;
     font-size: 30px;
-    color: ;
+
 }
 span{
     color: #8589EA;
@@ -79,4 +79,7 @@ span{
     letter-spacing: 1px;
     font-weight: 600;
     color: #1C152F;
+}
+.col-lg-7{
+    column-count: 2;
 }
